@@ -5,10 +5,10 @@
 
 
 ## Summary
-This is the online repository for the manuscript titled "LRRK2 mutation spectrum and association study in a multi-ethnic cohort of Malaysian Parkinson’s Disease patients". This study aims to resolve inconsistencies in previous reports by providing robust evidence that that the LRRK2 p.A419V is a significant risk player for PD in the EAS population while looking into data from multiple ancestries. The study also explores the variant's association with age at onset.
+This is the online repository for the manuscript titled "LRRK2 mutation spectrum and association study in a multi-ethnic cohort of Malaysian Parkinson’s Disease patients". This study aims to XXX
 
 ## Data Statement
-- All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson's Disease and are available via application on the website. The GP2 PD case and control data are available via the GP2 website (https://gp2.org; release 9: [https://doi.org/10.5281/zenodo.10472143](https://zenodo.org/records/14510099)). Genotyping imputation, quality control, ancestry prediction, and processing were performed using GenoTools (v1.0.0), publicly available on GitHub
+- All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson's Disease and are available via application on the website. The GP2 PD case and control data are available via the GP2 website (https://gp2.org; release 11: [https://doi.org/10.5281/zenodo.10472143](https://zenodo.org/records/14510099)). Genotyping imputation, quality control, ancestry prediction, and processing were performed using GenoTools (v1.0.0), publicly available on GitHub
 
 # Repository Orientation
 ```
