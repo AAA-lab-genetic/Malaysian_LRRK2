@@ -15,10 +15,12 @@ This is the online repository for the manuscript titled "LRRK2 mutation spectrum
 THIS_REPO
 └── README.md
 └── analysis
-  └── 00_A419V_data_preparation.ipynb
-  ├── 01_A419V_variant_analysis_release9.ipynb
-  └── 02_A419V_haplotype_release9.ipynb
-  └── 03_A419V_AAO_analysis_release9.ipynb
+  └── 01_PC_selection.ipynb 
+  ├── 02_annotation.ipynb   
+  └── 03_assoc.ipynb  
+  └── 04_burden_and_kernel_test.ipynb
+  └── 05_haplotype_analysis.ipynb  
+  └── 06_concordance_check.ipynb
 
 
 ```
@@ -28,7 +30,7 @@ THIS_REPO
 
 |Directory| Notebook                                 |Description                                                 |
 |:--------|:-----------------------------------------|:-----------------------------------------------------------|
-|GP2/     | 01_PC_selection.ipynb                    | Selecting number of PCs for association study                          | 
+|analysis/     | 01_PC_selection.ipynb                    | Selecting number of PCs for association study                          | 
 |         | 02_annotation.ipynb                      | Annotating data with annovar           | 
 |         | 03_assoc.ipynb                           | Running association for all variants      |
 |         | 04_burden_and_kernel_test.ipynb          | Running rare variant burden and kernel test |
